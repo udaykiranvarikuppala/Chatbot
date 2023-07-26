@@ -44,11 +44,11 @@ pairs = [
     ],
     [
         r"who created (.*) ?",
-        ["RBOT:\tSwetha has created me\U0001f60E"]
+        ["RBOT:\tUdaykiran has created me\U0001f60E"]
     ],
     [
         r"what is (.*) (location|city) ?",
-        ['RBOT:\tKalpakkam, TamilNadu','RBOT:\tChennai, TamilNadu']
+        ['RBOT:\tHyderabad, Telangana','RBOT:\tHyderabad, Telangana']
     ],
     [
         r"how is weather in (.*)?",
